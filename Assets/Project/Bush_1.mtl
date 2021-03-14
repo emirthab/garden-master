@@ -1,0 +1,47 @@
+# 3ds Max Wavefront OBJ Exporter v0.94b - (c)2007 guruware
+# File Created: 14.06.2019 10:02:17
+
+newmtl yellow
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.9216 0.5725 0.2627
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Cap.jpg
+	map_Kd D:\New folder 2\Cap.jpg
+
+newmtl broun
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.6784 0.5216 0.4353
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Kora.jpg
+	map_Kd D:\New folder 2\Kora.jpg
+	map_bump -bm 0.3000 D:\New folder 2\Kora.jpg
+	bump -bm 0.3000 D:\New folder 2\Kora.jpg
+
+newmtl green
+	Ns 10.0000
+	Ni 1.5000
+	d 1.0000
+	Tr 1.0000
+	Tf 1.0000 1.0000 1.0000 
+	illum 2
+	Ka 0.0000 0.0000 0.0000
+	Kd 0.5216 0.7216 0.5294
+	Ks 0.0000 0.0000 0.0000
+	Ke 0.0000 0.0000 0.0000
+	map_Ka D:\New folder 2\Leaves1.jpg
+	map_Kd D:\New folder 2\Leaves1.jpg
+	map_d D:\New folder 2\Leaves1_alfa.jpg
